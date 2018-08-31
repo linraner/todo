@@ -1,0 +1,23 @@
+* {
+    background: rgba(0,0,0, .1);
+}
+
+body {
+    background: #113f868c;
+    color: aliceblue;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+h1 {
+    color: burlywood;
+    text-align: center;
+}
+.task-item {
+    padding: 10px;
+    background: aliceblue;
+    color: #444444;
+    margin-bottom: 2px;
+}
